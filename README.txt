@@ -1,5 +1,4 @@
- 0 A.D. Introductory Information
-=================================
+## 0 A.D. Introductory Information
 
 0 A.D. (pronounced "zero ey-dee") is a free, open-source, cross-platform
 real-time strategy game of ancient warfare.
@@ -11,18 +10,15 @@ project of this scope.
 
 There are several ways to contact us and find more information:
 
-  Web site: http://play0ad.com/
+- Web site: http://play0ad.com/
 
-  Forums: http://www.wildfiregames.com/forum/
+- Forums: http://www.wildfiregames.com/forum/
 
-  Trac (development info, bug tracker): http://trac.wildfiregames.com/
+- Trac (development info, bug tracker): http://trac.wildfiregames.com/
 
-  IRC: #0ad on irc.quakenet.org
+- IRC: #0ad on irc.quakenet.org
 
-
----------------------------------------
-Running precompiled binaries on Windows
----------------------------------------
+## Running precompiled binaries on Windows
 
 Open the "binaries\system" folder.
 
@@ -30,44 +26,29 @@ To launch the game: Run pyrogenesis.exe
 
 To launch the map editor: Run Atlas.bat or "pyrogenesis.exe -editor"
 
-
------------------------------------
-Compiling the game from source code
------------------------------------
+## Compiling the game from source code
 
 The instructions for compiling the game on Windows, Linux and OS X are at
 http://trac.wildfiregames.com/wiki/BuildInstructions
 
-
-------------------
-Reporting problems
-------------------
+## Reporting problems
 
 Bugs should be reported on Trac. For information on reporting problems
 and finding logs, see http://trac.wildfiregames.com/wiki/ReportingErrors
 
-
-------------------
- Contributing Code
-------------------
+## Contributing Code
 
 If you want to help out programming for the game, have a look at
 https://trac.wildfiregames.com/wiki/GettingStartedProgrammers
 or contact us on #0ad-dev on irc.quakenet.org
 
-
---------------------
-Contributing Artwork
---------------------
+## Contributing Artwork
 
 If you want to make artwork for the game, have a look at
 https://trac.wildfiregames.com/#Forartists:
 or visit the forums http://www.wildfiregames.com/forum
 
-
------------
-Translating
------------
+## Translating
 
 You can help translating the game at https://www.transifex.com/projects/p/0ad
 for more information, see https://trac.wildfiregames.com/wiki/Localization
